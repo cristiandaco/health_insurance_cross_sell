@@ -34,10 +34,10 @@ O nosso cliente é uma seguradora que forneceu Seguro Saúde para seus clientes,
 
 ### Clientes com Veiculos mais novos possuem mais interesse em adquirir o seguro
 **Falso.**
-
 - Dos clientes que possuem carros novos **4,37%** possuem interesse.
 - Dos clientes que possuem carros usados **29,39%** possuem interesse.
 - Dos clientes que possuem carros velhos **17,37%.**
+
 ![image](https://user-images.githubusercontent.com/81040797/146606750-29b46b99-45f1-4625-ae1c-d1890c7bc5ab.png)
 
 ## Machine Learning Performance
