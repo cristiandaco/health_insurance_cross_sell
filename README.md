@@ -29,7 +29,7 @@ O nosso cliente é uma seguradora que forneceu Seguro Saúde para seus clientes,
 
 ### Clientes mais velhos devem ter mais interesse em adquirir o seguro do que clientes mais jovens
 **Verdadeiro.** Clientes acima 35 anos representam **73,18%** dos clientes que possuem interesse em adquirir o seguro.
-![image](https://user-images.githubusercontent.com/81040797/146606284-522beaa8-d43e-4cf1-85d6-086b539cfe3b.png) ![image](https://user-images.githubusercontent.com/81040797/146607227-f648fc40-605c-4e59-8187-f0a6ca168945.png)
+![image](https://user-images.githubusercontent.com/81040797/146624726-3f84da3f-9787-4522-9144-45ff2ec64222.png)
 
 
 ### Clientes com Veiculos mais novos possuem mais interesse em adquirir o seguro
