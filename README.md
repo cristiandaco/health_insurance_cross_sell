@@ -41,3 +41,17 @@ O nosso cliente é uma seguradora que forneceu Seguro Saúde para seus clientes,
 ![image](https://user-images.githubusercontent.com/81040797/146606750-29b46b99-45f1-4625-ae1c-d1890c7bc5ab.png)
 
 ## Machine Learning Performance
+
+No modelo de Regressão Linear com **20%** da base ordenada é possível alcançar **45%** dos clientes interessados e com **50%** da base ordenada é possível alcançar praticamente **100%** dos clientes interessados
+
+![image](https://user-images.githubusercontent.com/81040797/147998688-e34bf4dd-54f9-4759-ba79-512632f01aa8.png)
+
+### Precision e Recall
+
+- Precision at K:  0.280512911005235
+- Recall at K:     0.5146773149147421
+
+Resumindo, entrando em contato com os primeiros 17.000 clientes ordenados pelo modelo, é possível alcançar 50% dos clientes interessados no seguro automóvel
+
+![image](https://user-images.githubusercontent.com/81040797/147999210-724e9b41-7ed1-40b7-8e82-b4407069e7c0.png)
+
