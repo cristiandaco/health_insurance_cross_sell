@@ -46,12 +46,24 @@ No modelo de Regressão Linear com **20%** da base ordenada é possível alcanç
 
 ![image](https://user-images.githubusercontent.com/81040797/147998688-e34bf4dd-54f9-4759-ba79-512632f01aa8.png)
 
-### Precision e Recall
+## Conclusão, Precision e Recall
+
+Sem o ranqueamento gerado pelo modelo, a empresa teria que entrar em contato com os clientes de forma aleatória para obter o maior número possível de clientes que tenham interesse no seguro automóvel. Porém, com os clientes raqueados, a empresa poderia direcionar as suas ações para os clientes propensos a aquisição do produto, segundo as sugestões realizadas pelo modelo, de forma a otimizar o tempo disponibilizado, reduzir os recursos empregados, bem como maximizar a receita.
+
+Base de dados: 76.000 clientes.
+
+Entrando em contato com 17.000 clientes rankeados é possivel compreender 51% dos clientes interessados no seguro com uma precisão de 28%.
 
 - Precision at K:  0.280512911005235
 - Recall at K:     0.5146773149147421
 
-Resumindo, entrando em contato com os primeiros 17.000 clientes ordenados pelo modelo, é possível alcançar 50% dos clientes interessados no seguro automóvel
+Entrando em contato com 30.000 clientes rankeados é possivel compreender 86% dos clientes interessados no seguro com uma precisão de 26,7%.
+
+- Precision at K:  0.2674244191860271
+- Recall at K:     0.8628737362873736
 
 ![image](https://user-images.githubusercontent.com/81040797/147999210-724e9b41-7ed1-40b7-8e82-b4407069e7c0.png)
 
+## Próximos Passos
+
+No próximo cliclo é possível utilizar algoritmos de machine laerning mais elaborados que pudessem compreender melhor os dados de maneira a aumentar a precisão e o recall do modelo dentro do menor número possível de clientes.
